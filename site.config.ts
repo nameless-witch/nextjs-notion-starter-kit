@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Meet Siying',
   domain: 'https://proximal-haze-b57.notion.site/Meet-Siying-3e9d7152230f40e083f13364ee976c9e',
-  author: 'Siying',
+  author: 'Siying Wang',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
